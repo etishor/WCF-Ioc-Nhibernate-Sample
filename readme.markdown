@@ -1,0 +1,1 @@
+Sample project demonstrating the usage of NHibernate with IOC in a WCF context
